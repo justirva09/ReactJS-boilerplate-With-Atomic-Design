@@ -19,7 +19,8 @@ yarn start
 2.  Import with Absolute path (e.g: import { View } from 'component').
 3.  Already integrated with Redux and Firebase.
 4.  API instance with axios.
-5.  Easy to use!
+5.  Already integrated with dynamic react-router & pages.
+6.  Easy to use!
 
 ## How to Contribute
 
