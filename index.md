@@ -1,37 +1,44 @@
-## REactJS Boilerplate With Atomic Design Structure
+## ReactJS Boilerplate With Atomic Design - Ready for Development
+![alt text](https://1.bp.blogspot.com/-71VSgm9XGeY/X_VeXDPb2WI/AAAAAAAAFAo/woSRoB691aIWyRysCYMr8GTmc20pj4OpwCLcBGAsYHQ/s0/1500x500.jpg)
+- Created with: ReactJS ^17.0.1
+- Author: [Muhammad Irva](https://github.com/justirva09)
+- Production Branch: master
+- Dev Branch: development
 
-You can use the [editor on GitHub](https://github.com/justirva09/ReactJS-boilerplate-With-Atomic-Design/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+First, run the development server:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```bash
+npm run start
+# or
+yarn start
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Features
 
-### Jekyll Themes
+1.  Atomic Design Folder Structure.
+2.  Import with Absolute path (e.g: import { View } from 'component').
+3.  Already integrated with Redux and Firebase.
+4.  API instance with axios.
+5.  Already integrated with dynamic react-router & pages.
+6.  Easy to use!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/justirva09/ReactJS-boilerplate-With-Atomic-Design/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## How to Contribute
 
-### Support or Contact
+For managing code control and PR candidate, please follow previous commit and branch flow.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Work with new feature:
+
+1. Create new branch `feature/feature-name`
+2. Send commit with message `[feature-name] commit message`
+
+#### Work with existing feature:
+
+1. Checkout to branch where you wanna to change or update the feature (if doesn't exist, create new one with previous name /relevan name)
+2. Send commit with message `[feature-name] commit message`
+
+#### Pull Request to Dev
+
+You can create the PR to Dev if the feature has been successfully in local dev and local test
+
+Thanks
+
